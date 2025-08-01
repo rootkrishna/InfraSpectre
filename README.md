@@ -51,3 +51,5 @@ Any misuse of this tool is discouraged. Use responsibly as an ethical hacker.
 git clone https://github.com/rootkrishna/InfraSpectre.git
 cd InfraSpectre
 pip install -r requirements.txt
+python infraspectre.py
+
