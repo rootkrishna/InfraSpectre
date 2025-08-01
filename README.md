@@ -49,7 +49,14 @@ Any misuse of this tool is discouraged. Use responsibly as an ethical hacker.
 
 ```bash
 git clone https://github.com/rootkrishna/InfraSpectre.git
+
 cd InfraSpectre
+
 pip install -r requirements.txt
+
 python infraspectre.py
+
+## ✨ Optional CLI Flags
+
+python infraspectre.py -t example.com -m all
 
